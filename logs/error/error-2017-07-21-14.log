@@ -1,0 +1,330 @@
+[2017-07-21 14:24:27.584] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:24:56.873] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:39:21.646] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:42:36.941] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:44:52.302] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:44:54.457] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:45:05.215] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-21 14:46:03.209] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:46:13.962] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:46:45.012] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:50:35.638] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:53:01.920] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:53:04.668] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:53:18.906] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:53:40.077] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: Right-hand side of 'instanceof' is not callable
+err stack: TypeError: Right-hand side of 'instanceof' is not callable
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:30:19
+    at Generator.throw (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:402
+    at <anonymous>
+*************** error log end ***************
+
+[2017-07-21 14:53:49.204] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: Right-hand side of 'instanceof' is not callable
+err stack: TypeError: Right-hand side of 'instanceof' is not callable
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:30:19
+    at Generator.throw (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:402
+    at <anonymous>
+*************** error log end ***************
+
+[2017-07-21 14:53:51.151] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: Right-hand side of 'instanceof' is not callable
+err stack: TypeError: Right-hand side of 'instanceof' is not callable
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:30:19
+    at Generator.throw (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:402
+    at <anonymous>
+*************** error log end ***************
+
+[2017-07-21 14:54:03.532] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: Right-hand side of 'instanceof' is not callable
+err stack: TypeError: Right-hand side of 'instanceof' is not callable
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:30:19
+    at Generator.throw (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:402
+    at <anonymous>
+*************** error log end ***************
+
+[2017-07-21 14:54:05.558] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: Right-hand side of 'instanceof' is not callable
+err stack: TypeError: Right-hand side of 'instanceof' is not callable
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:30:19
+    at Generator.throw (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:402
+    at <anonymous>
+*************** error log end ***************
+
+[2017-07-21 14:54:06.995] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: TypeError
+err message: Right-hand side of 'instanceof' is not callable
+err stack: TypeError: Right-hand side of 'instanceof' is not callable
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:30:19
+    at Generator.throw (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/middlewares/response_formatter.js:3:402
+    at <anonymous>
+*************** error log end ***************
+
+[2017-07-21 14:54:17.841] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:56:55.269] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:57:21.681] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:58:14.007] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 14:58:36.085] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":0,"message":"fail"}
+*************** response log end ***************
+

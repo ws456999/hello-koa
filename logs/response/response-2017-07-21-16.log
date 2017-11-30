@@ -1,0 +1,13 @@
+[2017-07-21 16:04:07.408] [INFO] resLogger - 
+*************** response log start ***************
+request method: PATCH
+request originalUrl:  /api/users/registerUser
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 200
+response body: 
+{"code":400,"message":"fail"}
+*************** response log end ***************
+

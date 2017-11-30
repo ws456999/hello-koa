@@ -1,0 +1,36 @@
+[2017-09-26 17:26:11.180] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 17:28:15.331] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 17:29:06.510] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+

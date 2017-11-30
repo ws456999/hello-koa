@@ -1,0 +1,84 @@
+[2017-09-26 16:25:13.551] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 16:27:07.296] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 16:33:39.794] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 16:35:00.427] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 16:41:46.402] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 16:41:47.008] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+
+[2017-09-26 16:48:00.734] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+

@@ -1,0 +1,84 @@
+[2017-07-21 13:19:44.287] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-21 13:20:36.887] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-21 13:20:48.630] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-21 13:20:49.228] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /favicon.ico
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-21 13:25:22.966] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::ffff:127.0.0.1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"username":"wr","age":20}
+*************** response log end ***************
+
+[2017-07-21 13:44:10.011] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title>Hello Koa 2!</title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1>Hello Koa 2!</h1><p>Welcome to Hello Koa 2!</p></body></html>"
+*************** response log end ***************
+
+[2017-07-21 13:44:21.522] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":200,"message":"success","data":{"username":"wr","age":20}}
+*************** response log end ***************
+

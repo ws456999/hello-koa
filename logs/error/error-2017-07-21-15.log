@@ -1,0 +1,245 @@
+[2017-07-21 15:00:37.994] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: ReferenceError
+err message: ApiError is not defined
+err stack: ReferenceError: ApiError is not defined
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:5
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:1:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-21 15:00:44.639] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: ReferenceError
+err message: ApiError is not defined
+err stack: ReferenceError: ApiError is not defined
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:5
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:1:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-21 15:01:48.986] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: ReferenceError
+err message: ApiError is not defined
+err stack: ReferenceError: ApiError is not defined
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:5
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:1:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-21 15:02:34.360] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: ReferenceError
+err message: ApiErrorNames is not defined
+err stack: ReferenceError: ApiErrorNames is not defined
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:5:24
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-21 15:02:55.651] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: userNotExist
+err message: 用户不存在
+err stack: userNotExist: 用户不存在
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:6:11
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:4:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-21 15:03:23.634] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: userNotExist
+err message: 用户不存在
+err stack: userNotExist: 用户不存在
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:6:11
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:4:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-21 15:03:25.254] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: userNotExist
+err message: 用户不存在
+err stack: userNotExist: 用户不存在
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:6:11
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:4:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-21 15:06:29.672] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: undefined
+response status: 200
+response body: 
+{"code":200,"message":"success","data":{"username":"wr","age":20}}
+*************** response log end ***************
+
+[2017-07-21 15:45:19.519] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser?id=1
+request client ip:  ::ffff:127.0.0.1
+request query:  {"id":"1"}
+response time: undefined
+response status: 200
+response body: 
+{"code":200,"message":"success","data":{"username":"wr","age":20}}
+*************** response log end ***************
+
+[2017-07-21 15:57:26.899] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/registerUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":400,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-21 15:57:42.939] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /api/users/registerUser
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 200
+response body: 
+{"code":200,"message":"success","data":{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}}
+*************** response log end ***************
+

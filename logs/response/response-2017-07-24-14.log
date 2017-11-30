@@ -1,0 +1,376 @@
+[2017-07-24 14:46:12.684] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload.json\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:46:25.562] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload.json
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:46:30.975] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload.json
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:49:04.352] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload.json
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:49:07.802] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload.json
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:49:10.701] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload/result\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:49:17.646] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload/result
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:50:46.039] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload/result\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:51:13.857] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:51:19.165] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:52:06.324] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:52:09.665] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:52:16.701] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:53:26.413] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:53:32.828] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:53:37.325] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:54:51.396] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:55:05.533] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /json
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"title":"koa2 json"}
+*************** response log end ***************
+
+[2017-07-24 14:56:30.444] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:56:52.192] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:56:58.228] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:57:07.244] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:57:09.871] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:57:12.307] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:57:16.955] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:57:19.164] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:57:28.400] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:57:33.691] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 14:58:01.913] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" action=\"/upload/result\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 14:58:07.615] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload/result
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+

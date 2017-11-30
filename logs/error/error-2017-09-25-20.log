@@ -1,0 +1,60 @@
+[2017-09-25 20:57:04.141] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"<!DOCTYPE html><html><head><title>Hello Koa 2!</title><link rel=\"stylesheet\" href=\"/stylesheets/style.css\"></head><body><h1>Hello Koa 2!</h1><p>Welcome to Hello Koa 2!</p></body></html>"
+*************** response log end ***************
+
+[2017-09-25 20:57:04.730] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /favicon.ico
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-09-25 20:57:13.693] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /login
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-09-25 20:57:45.811] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response!"
+*************** response log end ***************
+
+[2017-09-25 20:58:55.629] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /users
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"this is a users response123!"
+*************** response log end ***************
+

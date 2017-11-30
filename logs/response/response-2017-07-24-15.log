@@ -1,0 +1,219 @@
+[2017-07-24 15:00:12.808] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/registerUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":400,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-24 15:00:19.331] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/registerUser
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+{"code":400,"message":"fail"}
+*************** response log end ***************
+
+[2017-07-24 15:00:37.596] [ERROR] errorLogger - 
+*************** error log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser
+request client ip:  ::1
+request query:  {}
+response time: 0
+err name: userNotExist
+err message: 用户不存在
+err stack: userNotExist: 用户不存在
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:6:11
+    at Generator.next (<anonymous>)
+    at step (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:191)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:437
+    at Promise (<anonymous>)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:3:99
+    at exports.getUser (/Users/a39/Desktop/other/express-demo/hellokoa2/controllers/user_controller.js:4:1)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:45:18)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:345:16
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:44:32)
+    at /Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:350:31)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:42:32)
+    at next (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.4.0.0@koa-compose/index.js:43:18)
+    at dispatch (/Users/a39/Desktop/other/express-demo/hellokoa2/node_modules/.7.2.1@koa-router/lib/router.js:332:32)
+*************** error log end ***************
+
+[2017-07-24 15:00:43.839] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /api/users/getUser?id=1
+request client ip:  ::1
+request query:  {"id":"1"}
+response time: undefined
+response status: 200
+response body: 
+{"code":200,"message":"success","data":{"username":"wr","age":20}}
+*************** response log end ***************
+
+[2017-07-24 15:02:51.220] [INFO] resLogger - 
+*************** response log start ***************
+request method: GET
+request originalUrl:  /upload
+request client ip:  ::1
+request query:  {}
+response time: undefined
+response status: 200
+response body: 
+"\n      <h1>koa2 upload demo</h1>\n      <form method=\"POST\" enctype=\"multipart/form-data\">\n        <p>file upload</p>\n        <span>picName:</span><input name=\"picName\" type=\"text\" /><br/>\n        <input name=\"file\" type=\"file\" /><br/><br/>\n        <button type=\"submit\">submit</button>\n      </form>\n    "
+*************** response log end ***************
+
+[2017-07-24 15:02:56.378] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 15:03:23.945] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 15:06:30.588] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /string
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 200
+response body: 
+"koa2 string"
+*************** response log end ***************
+
+[2017-07-24 15:07:18.393] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 15:07:35.199] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /what
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 15:07:59.732] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /what
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 200
+response body: 
+123
+*************** response log end ***************
+
+[2017-07-24 15:08:31.084] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /what
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 15:09:21.431] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /what
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 404
+response body: 
+undefined
+*************** response log end ***************
+
+[2017-07-24 15:09:42.393] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /what
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 200
+response body: 
+123
+*************** response log end ***************
+
+[2017-07-24 15:10:15.146] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{"uId":"17bca34fe1654e3098d266522e15be71","time":"1495706713782","deviceType":"mobile","sign":"ODU1ZWE1YjljNzAyYzM4MGIzYjMyNDRjOTJiODllNjI%3D"}
+response time: undefined
+response status: 200
+response body: 
+123
+*************** response log end ***************
+
+[2017-07-24 15:10:30.935] [INFO] resLogger - 
+*************** response log start ***************
+request method: POST
+request originalUrl:  /upload
+request client ip:  ::1
+request body: 
+{}
+response time: undefined
+response status: 200
+response body: 
+123
+*************** response log end ***************
+
